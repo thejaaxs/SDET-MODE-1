@@ -1,7 +1,6 @@
 # 🚀 Playwright Test Automation Ecosystem Mastery 
 
 > Comprehensive Playwright Automation Course  
-> **29 Sections • 153 Lectures • 26 Hours 48 Minutes**
 
 This repository contains my learning journey and notes from a complete Playwright Test Automation course covering UI automation, API testing, framework design, CI/CD, Azure cloud execution, AI-powered testing, TypeScript, Cucumber, Jenkins, GitHub Actions, and QAOps.
 
