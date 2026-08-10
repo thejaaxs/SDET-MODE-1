@@ -1,6 +1,6 @@
 # 🚀 Playwright Test Automation Ecosystem Mastery 
 
-> Comprehensive Playwright Automation Course  
+> Comprehensive Playwright Automation Course 
 
 This repository contains my learning journey and notes from a complete Playwright Test Automation course covering UI automation, API testing, framework design, CI/CD, Azure cloud execution, AI-powered testing, TypeScript, Cucumber, Jenkins, GitHub Actions, and QAOps.
 
