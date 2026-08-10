@@ -1,4 +1,4 @@
-# 🚀 Playwright Test Automation Ecosystem Mastery
+# 🚀 Playwright Test Automation Ecosystem Mastery 
 
 > Comprehensive Playwright Automation Course  
 > **29 Sections • 153 Lectures • 26 Hours 48 Minutes**
