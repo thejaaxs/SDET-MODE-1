@@ -580,4 +580,4 @@ Build and deploy a **production-grade Playwright Automation Framework** with:
 **Total Sections:** 29  
 **Total Lectures:** 153
 
-🚀 Happy Testing with Playwright!
+🚀 Happy Testing with Playwright
