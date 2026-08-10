@@ -1,0 +1,13 @@
+The Uses Of Playwright & Why Playwright 
+    Realiable End-To-End Testing -> Uses the Auto-Wait Capability 
+    Cross Browser Compatibility -> Supports Chrome, Safari, FireFox & All popular 
+    Multiplatform Support -> MacOs, Windows and Linux works seemlessly 
+    Multilingual Flexibilty -> Can be written in Javascript, Java, Python etc !
+
+Playwright is the only tool that gives us all the above features 
+
+Advanecd Playwright Features : 
+    Tracing & Debugging with screenshots, traces, logs
+    Network Interception 
+    Browser Context Management
+    Codegen Tool !
